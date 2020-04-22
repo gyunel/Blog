@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@697&family=Source+Sans+Pro:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&family=Dancing+Script:wght@697&family=Source+Sans+Pro:wght@200&display=swap');
+body{
+	margin: 0;
+}
+.main{
+    width: 750px;
+    height: 850px;
+    border: 16px solid  #ffd9b3;
+    margin: 0px auto;
+}
+.second{	
+    width: 650px;
+    height: 700px  ;
+    background-color: white;
+    padding:  25px;
+}
+.basliq{
+	text-align: center;
+	color:  #e69900;
+	font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    word-spacing: 2px;
+    letter-spacing: 7px; 
+    padding-top: 10px;
+}
+
+.bord{
+	padding-top: 5px;
+	border-left: 5px solid  #ffd9b3;
+	padding-left: 5px;
+}
+.header{
+    padding-top: 10px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    color: #e6ac00;
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Baloo Bhaina 2', cursive;
+    line-height: 26px;
+}
+.decem{
+	padding-top: 25px;
+}
